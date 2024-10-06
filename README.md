@@ -64,14 +64,14 @@ This app uses a public news API to fetch news articles. [NewsAPI](https://newsap
 ```git clone https://github.com/roshan061020/NewsReader.git```
 
 - Open the Xcode project:
-```cd NewsReaderApp
-open NewsReaderApp.xcodeproj```
+```cd NewsReaderApp```
+```open NewsReaderApp.xcodeproj```
 
 - Install the necessary dependencies (SDWebImages)
 
 - Run the App
 
-# Demo video: 
+# Demo video
 
 https://drive.google.com/file/d/1zLcnwhIOAkrRM9_iH2X3usn5daqrYiPv/view?usp=sharing
 
