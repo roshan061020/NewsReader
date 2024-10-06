@@ -9,6 +9,7 @@ The **News Reader App** is a simple and scalable iOS application that allows use
 - Display a list of news articles with titles, descriptions, and thumbnails (when available).
 - Filter news by categories. 
 - Pagination support for infinite scrolling of large datasets.
+- Has a page size of 8 articles and loads more on tap of load more button.
 - Bookmark functionality to save articles for future reading using CoreData.
 - Smooth transitions between article lists and detailed views.
 - In-app WebView for reading full articles.
